@@ -5,6 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(
+    to left,
+    rgba(7, 27, 82, 1),
+    rgba(0, 128, 128, 1)
+  );
+}
+
+h1 {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 72px;
+  color: #0ccac4;
 }
 
 code {
